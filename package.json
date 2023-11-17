@@ -11,7 +11,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@jobscale/logger": "^0.0.7",
-    "dayjs": "^1.11.5"
+    "@jobscale/logger": "^0.2.0",
+    "dayjs": "^1.11.10"
   }
 }
